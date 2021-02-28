@@ -50,11 +50,11 @@ simBtn = tk.Button(text = "Simulate Scan", command = nfcScan)
 
 
 titleLbl.pack()
-
+simBtn.pack()
 
 label2.pack(pady=300)
 
-simBtn.pack()
+
 
 
 
